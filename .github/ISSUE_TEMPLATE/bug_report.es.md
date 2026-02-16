@@ -1,9 +1,9 @@
 ---
-Nombre: Reporte de Bug
-Titulo: "[BUG] <Pequeño resumen del error>"
-Acerca de: Informa sobre un error o comportamiento inesperado.
-Etiquetas: bug
-Encargado: ''
+name: Reporte de Bug
+title: "[BUG] <Pequeño resumen del error>"
+about: Informa sobre un error o comportamiento inesperado.
+labels: bug
+assignees: ''
 ---
 
 ## 📝 Descripción
