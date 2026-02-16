@@ -11,7 +11,7 @@ Describe the functionality you would like to see.
 Explain how this improves the experience of customizing browser sounds.
 
 ## 🎨 Visual Details (optional)
-How do you imagine this would look in the Tailwind modal or the options page?
+How do you imagine this would look in the modal or the options page?
 
 ## 🔄 Alternatives considered
 Have you tried any workarounds or other extensions to achieve this?
