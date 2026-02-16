@@ -1,6 +1,7 @@
 ---
-name: Bug Report
+name: Reporte de Bug
 title: "[BUG] <Pequeño resumen del error>"
+about: Informa sobre un error o comportamiento inesperado.
 labels: bug
 assignees: ''
 ---

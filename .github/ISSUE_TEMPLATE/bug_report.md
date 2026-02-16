@@ -1,6 +1,7 @@
 ---
 name: Bug Report
 title: "[BUG] <Short summary of the error>"
+about: Report an error or unexpected behavior.
 labels: bug
 assignees: ''
 ---
