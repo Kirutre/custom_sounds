@@ -7,7 +7,7 @@ Below are some guidelines to help you get started.
 ## 🚀 How Can I Contribute?
 
 ### Reporting Bugs 🐛
-If you find a bug, please use the [**Bug Report**](.github/issue_template/bug_report.md) template when opening an issue. Be as specific as possible.
+If you find a bug, please use the [**Bug Report**](.github/ISSUE_TEMPLATE/bug_report.md) template when opening an issue. Be as specific as possible.
 
 ### Suggesting Enhancements ✨
 Have a cool idea? I'd love to hear it! 

@@ -7,7 +7,7 @@ Debajo hay algunas pautas que te ayudarán a empezar.
 ## 🚀 ¿Como puedo contribuir?
 
 ### Reportar Bugs 🐛
-Si encuentras un bug, por favor usa la plantilla de [**Reporte de Bugs**](.github/issue_template/bug_report.es.md) al abrir un issue. Sé lo mas especifico posible.
+Si encuentras un bug, por favor usa la plantilla de [**Reporte de Bugs**](.github/ISSUE_TEMPLATE/bug_report.es.md) al abrir un issue. Sé lo mas especifico posible.
 
 ### Sugerencia de características ✨
 ¿Tienes una idea asombrosa? ¡Me encataría verla! 
