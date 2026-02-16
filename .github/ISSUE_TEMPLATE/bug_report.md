@@ -16,7 +16,7 @@ A clear and concise description of what is happening.
 4. See error: (e.g., no sound plays / the extension crashes).
 
 ## 💻 Browser Environment
-* **Browser:** [e.g., Firefox, Chrome, Brave]
+* **Browser:** [e.g. Firefox, Chrome, Brave]
 * **Browser Version:** [e.g. 122.0.1]
 * **Extension Version:** [e.g. 1.0.0 or "manual install from main"]
 * **Operating System:** [e.g. Windows 11, macOS, Ubuntu]
