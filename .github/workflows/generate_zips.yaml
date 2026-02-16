@@ -29,7 +29,7 @@ jobs:
             *.git* /.github/* .gitignore /images/* /offscreen/* /sounds/*
             /options/input.css /svg/arrow.svg /svg/close.svg /svg/trash.svg
             manifest-chromium.json manifest-firefox.json
-            README.es.md README.md
+            README.es.md README.md CONTRIBUTING.md CONTRIBUTING.es.md
       
       - name: Upload zip
         uses: ncipollo/release-action@v1.20.0
@@ -57,6 +57,7 @@ jobs:
             *.git* /.github/* .gitignore /offscreen/*
             /svg/arrow.svg /svg/close.svg /svg/trash.svg
             manifest-chromium.json manifest-firefox.json
+            CONTRIBUTING.md CONTRIBUTING.es.md
       
       - name: Upload zip
         uses: ncipollo/release-action@v1.20.0
@@ -84,7 +85,7 @@ jobs:
             *.git* /.github/* .gitignore /svg/* /sounds/*
             /images/modal.png /images/options_page.png /options/input.css
             manifest-chromium.json manifest-firefox.json
-            README.es.md README.md
+            README.es.md README.md CONTRIBUTING.md CONTRIBUTING.es.md
       
       - name: Upload zip
         uses: ncipollo/release-action@v1.20.0
@@ -112,6 +113,7 @@ jobs:
             *.git* /.github/* .gitignore
             /svg/arrow.svg /svg/close.svg /svg/trash.svg
             manifest-chromium.json manifest-firefox.json
+            CONTRIBUTING.md CONTRIBUTING.es.md
       
       - name: Upload zip
         uses: ncipollo/release-action@v1.20.0
