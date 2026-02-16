@@ -104,18 +104,7 @@ npx @tailwindcss/cli -i ./options/input.css -o ./options/output.css --watch --mi
 ## 🤝 Contributing
 Contributions are what make software better, and I’m excited to see what you have to offer!
 
-1. **Fork** the project.
-
-2. Create a **Branch** for your development (`git checkout -b feature/destroy-this-extension`).
-
-3. **Commit** your changes (`git commit -m 'change 1px bug in setKeyButton radius'`).
-
-4. **Push** to the branch (`git push origin feature/destroy-this-extension`).
-
-5. Open a **Pull Request**.
-
-> [!NOTE]
-> Comedy aside, please be as descriptive as possible with the names you use.
+Please read the [**Contributing Guidelines**](CONTRIBUTING.md) to get started. Whether it's fixing a bug or suggesting a crazy new sound trigger, all help is welcome!
 
 ## 📝 License
 Distributed under the MIT License. See the [LICENSE](LICENSE) file for more information.

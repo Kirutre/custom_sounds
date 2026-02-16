@@ -1,0 +1,25 @@
+name: Welcome pr message
+
+on:
+  pull_request:
+    types: opened
+
+permissions:
+  pull-requests: write
+
+jobs:
+  welcome:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/first-interaction@v3.1.0
+        with:
+          pr-message: |
+            ## Welcome to Custom Sounds! 🎵
+
+            Thanks a million for opening this Pull Request!
+
+            It's awesome to see someone looking to improve this project (or trying to destroy it with style!). I'll take a look at your changes as soon as possible. 
+
+            In the meantime, please make sure you've checked our [CONTRIBUTING.md](https://github.com/${{ github.repository }}/blob/main/CONTRIBUTING.md) to ensure everything is in order.
+
+            **Thanks for making this project amazing!**

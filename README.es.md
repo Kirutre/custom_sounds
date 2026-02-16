@@ -29,7 +29,7 @@
 
 - 🚀 **Ligero:** optimizado para no afectar el rendimiento al navegar.
 
-## ⏭️ ~~Próximas Características~~ Características Finalizadas!!!
+## ⏭️ ~~Próximas Características~~ ¡¡¡Características Finalizadas!!!
 - 🎚️ **Controlador de Volumen:** para que seas tú quien decida qué tan rápido destrozar tus oídos.
 
 - ⌨️ **Múltiples teclas, mismo sonido:** para que asignes tus sonidos favoritos a tu teclado.
@@ -63,7 +63,7 @@ Si deseas modificar la extensión o contribuir al código, sigue estos pasos par
    #### Recompilar `output.css`
    1. Descarga el ejecutable de la CLI según tu sistema operativo desde [Tailwind CSS Releases](https://github.com/tailwindlabs/tailwindcss/releases/tag/v4.1.18).
 
-   2. Coloca el ejecutable en la raíz del proyecto y renombralo a `tailwindcss-cli`.
+   2. Coloca el ejecutable en la raíz del proyecto y renómbralo a `tailwindcss-cli`.
 
    3. Ejecuta el siguiente comando para compilar y observar cambios en tiempo real.
 
@@ -102,20 +102,9 @@ npx @tailwindcss/cli -i ./options/input.css -o ./options/output.css --watch --mi
       5. Selecciona la carpeta raíz del proyecto (donde está el manifest.json).
 
 ## 🤝 Contribuir
-¡Las contribuciones son lo que hacen mejorar al software, y estoy encantado de ver que puedes ofrecer!
+¡Las contribuciones son lo que hacen mejorar al software, y estoy encantado de ver qué puedes ofrecer!
 
-1. Haz un **Fork** del proyecto.
-
-2. Crea una **Rama** para tu desarrollo (`git checkout -b feature/destroy-this-extension`).
-
-3. Haz un **Commit** de tus cambios (`git commit -m 'change 1px bug in setKeyButton radius'`).
-
-4. Haz un **Push** a la rama (`git push origin feature/destroy-this-extension`).
-
-5. Abre un **Pull Request**.
-
-> [!NOTE] 
-> Omitiendo la comedia, sé lo más descriptivo posible con los nombres que uses.
+Por favor lee las [**Pautas de contribución**](CONTRIBUTING.es.md) para empezar. Ya sea para corregir un bug o sugerir una nueva _feature_, ¡toda ayuda es bienvenida!.
 
 ## 📝 Licencia
 Distribuido bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más información.
