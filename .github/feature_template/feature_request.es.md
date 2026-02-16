@@ -1,5 +1,5 @@
 ---
-name: Feature Request
+name: Solicitud de Característica
 title: "[FEATURE] <Nombre de la funcionalidad>"
 labels: enhancement
 ---
